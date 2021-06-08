@@ -7,13 +7,9 @@
   font-family: 'Lato', sans-serif;
 }
 
-.Graduacao,
-.PosGraduacao,
-.home,
-.reports,
-.products,
-.team,
-.reports {
+.cursos,
+.sobre
+ {
   display: flex;
   height: 90vh;
   align-items: center;

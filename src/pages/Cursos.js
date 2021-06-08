@@ -2,7 +2,7 @@ import React from 'react';
 
 function Curso() {
   return (
-      <h1>Cursos</h1>
+      <h1 className='cursos'>Cursos</h1>
   );
 }
 
@@ -10,7 +10,7 @@ export default Curso;
 
 export const Graduacao = () => {
     return (
-      <div className='Graduacao'>
+      <div className='cursos'>
         <h1>Graduação</h1>
       </div>
     );
@@ -18,31 +18,31 @@ export const Graduacao = () => {
   
   export const PosGraduacao = () => {
     return (
-      <div className='PosGraduacao'>
+      <div className='cursos'>
         <h1>Pos-Graduação</h1>
       </div>
     );
   };
 
-  export const mba = () => {
+  export const Mba = () => {
     return (
-      <div className='mba'>
+      <div className='cursos'>
         <h1>MBA</h1>
       </div>
     );
   };
 
-  export const mestrado = () => {
+  export const Mestrado = () => {
     return (
-      <div className='mestrado'>
+      <div className='cursos'>
         <h1>Mestrado</h1>
       </div>
     );
   };
 
-  export const cursosLivres = () => {
+  export const CursosLivres = () => {
     return (
-      <div className='cursosLivres'>
+      <div className='cursos'>
         <h1>Cursos Livres</h1>
       </div>
     );
