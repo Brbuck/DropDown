@@ -83,7 +83,7 @@ export const Data = [
             },
             {
                 title: 'Colação de Grau',
-                path: '/servicos/ColaçãoDeGrau'
+                path: '/servicos/ColacaoDeGrau'
             },
             {
                 title: 'Eventos',
@@ -91,7 +91,7 @@ export const Data = [
             },
             {
                 title: 'Educação Inclusiva',
-                path: '/servicos/EducaçãoInclusiva'
+                path: '/servicos/educacaoInclusiva'
             }
         ]
 
