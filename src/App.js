@@ -1,12 +1,4 @@
-import './App.css';
-//import Sidebar from './components/Sidebar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-//import Overview from './pages/Overview';
-//import { Reports, ReportsOne, ReportsTwo, ReportsThree } from './pages/Reports';
-//import Team from './pages/Team';
-//import Header from './components/Header';
-//import Menu from './components/Menu';
-//import Teste from './components/Teste';
 
 import Menu from './components/Header/Menu'
 import Curso, { Graduacao, Mba, Mestrado, PosGraduacao } from './pages/Cursos';
