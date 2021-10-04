@@ -1,8 +1,8 @@
-# DropDown menu
+# Sidebar Menu
 
 ## Sobre o Projeto
 
-Menu DropDown para fins de estudo.
+Barra de menu lateral para fins de estudo.
 
 ## Tecnologias
 
